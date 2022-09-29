@@ -1,0 +1,26 @@
+[
+    {
+        "url": "tool1.jpg",
+        "title": "정원갈퀴",
+        "subtitle": "내 손에 딱 맞는 도구",
+        "price": "9,000원"
+    },
+    {
+        "url": "tool2.jpg",
+        "title": "모종삽 3종",
+        "subtitle": "각기 다른 기능을 가진 만능 도구",
+        "price": "13,000원"
+    },
+    {
+        "url": "tool3.jpg",
+        "title": "정원가위",
+        "subtitle": "적은 힘, 최대한의 효과",
+        "price": "15,000원"
+    },
+    {
+        "url": "tool4.jpg",
+        "title": "잡초제거기",
+        "subtitle": "오랜 시간을 들이는 수고는 이제 그만",
+        "price": "17,000원"
+    }
+]

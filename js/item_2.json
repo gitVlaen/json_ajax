@@ -1,0 +1,42 @@
+[
+    {
+        "url": "flower1.jpg",
+        "title": "해바라기",
+        "price": "53,100원"
+    },
+    {
+        "url": "flower2.jpg",
+        "title": "튤립",
+        "price": "62,100원"
+    },
+    {
+        "url": "flower3.jpg",
+        "title": "난초꽃",
+        "price": "71,100원"
+    },
+    {
+        "url": "flower4.jpg",
+        "title": "아이리스",
+        "price": "43,100원"
+    },
+    {
+        "url": "flower5.jpg",
+        "title": "장미",
+        "price": "48,600원"
+    },
+    {
+        "url": "flower6.jpg",
+        "title": "수국",
+        "price": "34,200원"
+    },
+    {
+        "url": "flower7.jpg",
+        "title": "거베라",
+        "price": "76,500원"
+    },
+    {
+        "url": "flower8.jpg",
+        "title": "리시안셔스",
+        "price": "89,100원"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "url": "plant1.jpg",
+        "title": "아레카야자",
+        "subtitle": "테이블 위의 작은 숲",
+        "price": "16,000원"
+    },
+    {
+        "url": "plant2.jpg",
+        "title": "싱고니움 네온",
+        "subtitle": "싱그러움과 산뜻함을 동시에",
+        "price": "18,000원"
+    },
+    {
+        "url": "plant3.jpg",
+        "title": "산세비에리아",
+        "subtitle": "실내 공기정화의 대표",
+        "price": "22,000원"
+    },
+    {
+        "url": "plant4.jpg",
+        "title": "필로덴드론",
+        "subtitle": "실내 공기정화의 또 다른 강자",
+        "price": "20,000원"
+    },
+    {
+        "url": "plant5.jpg",
+        "title": "Mini 필로덴드론",
+        "subtitle": "한 줌에서 느끼는 산뜻함",
+        "price": "9,900원"
+    },
+    {
+        "url": "plant6.jpg",
+        "title": "피토니아",
+        "subtitle": "소박한 멋의 대표주자",
+        "price": "7,800원"
+    },
+    {
+        "url": "plant7.jpg",
+        "title": "세네시오",
+        "subtitle": "실내에서 느끼는 상쾌함",
+        "price": "8,400원"
+    },
+    {
+        "url": "plant8.jpg",
+        "title": "페퍼로미아",
+        "subtitle": "맑고 깨끗한 공기를 위한 선택",
+        "price": "8,700원"
+    }
+]
